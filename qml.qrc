@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Main.qml</file>
+        <file>UI/Core.qml</file>
+        <file>UI/CustomCheckBox.qml</file>
+        <file>UI/FeatureButtonGroup.qml</file>
+        <file>UI/CustomDialog.qml</file>
+        <file>UI/Indicator.qml</file>
+        <file>UI/NoteArea.qml</file>
+    </qresource>
+</RCC>
